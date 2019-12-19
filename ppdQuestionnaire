@@ -1,244 +1,233 @@
 {
-  "id": "PPD-TEST",
-  "type": "questionnaire",
-  "totalQuestions" : "10",
-  "title": "Post Partum Depression Questionnaire",
-  "description": "For the following questions, please select the answer that comes closest to how you have felt over the past 7 days.",
-  "scaleLow" : "0-9 Minimal risk of postpartum depression",
-  "scaleMedium" : "10-12 Moderate risk of postpartum depression",
-  "scaleHigh" : "13-30 High risk of postpartum depression",
-  "questions": [
-    {
-      "name": "question-1",
-      "type": "choice",
-      "title": "Question 1 out of 10",
-      "question": "I have been able to laugh and see the funny side of things",
-      "choices": [
-        {
-          "title": "As much as I always could",
-          "value": 0
-        },
-        {
-          "title": "Not quiet so much now",
-          "value": 1
-        },
-        {
-          "title": "Definitely not so much now",
-          "value": 2
-        },
-        {
-          "title": "Not at all",
-          "value": 3
-        }
-      ]
-    }, {
-      "name": "question-2",
-      "type": "choice",
-      "title": "Question 2 out of 10",
-      "question": "I have looked forward with enjoyment to things",
-      "choices": [
-        {
-          "title": "As much as I ever did",
-          "value": 0
-        },
-        {
-          "title": "Rather less than I used to",
-          "value": 1
-        },
-        {
-          "title": "Definitely less than I used to",
-          "value": 2
-        },
-        {
-        
-          "title": "Hardly at all",
-          "value": 3
-        }
-      ]
-    },{
-      "name": "question-3",
-      "type": "choice",
-      "title": "Question 3 out of 10",
-      "question": "I have blamed myself unnecessarily when things went wrong",
-      "choices": [
-        {
-          "title": "Yes, most of the time",
-          "value": 3
-        },
-        {
-          "title": "Yes, some of the time",
-          "value": 2
-        },
-        {
-          "title": "Not very often",
-          "value": 1
-        },
-        {
-          "title": "No, never",
-          "value": 0
-        }
-      ]
-    },{
-      "name": "question-4",
-      "type": "choice",
-      "title": "Question 4 out of 10",
-      "question": "I have been anxious or worried for no good reason",
-      "choices": [
-        {
-          "title": "No, not at all",
-          "value": 0
-        },
-        {
-          "title": "Hardly ever",
-          "value": 1
-        },
-        {
-          "title": "Yes,sometimes",
-          "value": 2
-        },
-        {
-          "title": "Yes, very often",
-          "value": 3
-        }
-      ]
-    },{
-      "name": "question-5",
-      "type": "choice",
-      "title": "Question 5 out of 10",
-      "question": "I have felt scared or panicky for no very good reason",
-      "choices": [
-        {
-          "title": "Yes, quiet a lot",
-          "value": 3
-        },
-        {
-          "title": "Yes, sometimes",
-          "value": 2
-        },
-        {
-          "title": "No, not much",
-          "value": 1
-        },
-        {
-          "title": "No, not at all",
-          "value": 0
-        }
-      ]
-    },{
-      "name": "question-6",
-      "type": "choice",
-      "title": "Question 6 out of 10",
-      "question": "Things have been getting on top of me",
-      "choices": [
-        {
-          "title": "Yes, most of the time I have not been able to cope at all",
-          "value": 3
-        },
-        {
-          "title": "Yes, sometimes I have not been coping as well as usual",
-          "value": 2
-        },
-        {
-          "title": "No, most of the time I have coped quiet well",
-          "value": 1
-        },
-        {
-          "title": "No, I have been coping as well as ever",
-          "value": 0
-        }
-      ]
-    },{
-      "name": "question-7",
-      "type": "choice",
-      "title": "Question 7 out of 10",
-      "question": "I have been so unhappy that I have had difficulty sleeping",
-      "choices": [
-        {
-          "title": "Yes, most of the time",
-          "value": 3
-        },
-        {
-          "title": "Yes sometimes",
-          "value": 2
-        },
-        {
-          "title": "Not very often",
-          "value": 1
-        },
-        {
-          "title": "No, not at all",
-          "value": 0
-        }
-      ]
-    },{
-      "name": "question-8",
-      "type": "choice",
-      "title": "Question 8 out of 10",
-      "question": "I have felt sad or miserable",
-      "choices": [
-        {
-          "title": "Yes, most of the time",
-          "value": 3
-        },
-        {
-          "title": "Yes, sometimes",
-          "value": 2
-        },
-        {
-          "title": "Not very often",
-          "value": 1
-        },
-        {
-          "title": "Not at all",
-          "value": 0
-        }
-      ]
-    },{
-      "name": "question-9",
-      "type": "choice",
-      "title": "Question 9 out of 10",
-      "question": "I have been so unhappy that I have been crying",
-      "choices": [
-        {
-          "title": "Yes, most of the time",
-          "value": 3
-        },
-        {
-          "title": "Yes, sometimes",
-          "value": 2
-        },
-        {
-          "title": "Only Occasionaly",
-          "value": 1
-        },
-        {
-          "title": "No, never",
-          "value": 0
-        }
-      ]
-    },{
-      "name": "question-10",
-      "type": "choice",
-      "title": "Question 10 out of 10",
-      "question": "The thought of harming myself has occurred to me",
-      "choices": [
-        {
-          "title": "Yes, quiet often",
-          "value": 3
-        },
-        {
-          "title": "Sometimes",
-          "value": 2
-        },
-        {
-          "title": "Hardly ever",
-          "value": 1
-        },
-        {
-          "title": "Never",
-          "value": 0
-        }
-      ]
-    }
-  ]
+	"id": "PPD-TEST",
+	"type": "questionnaire",
+	"totalQuestions": "10",
+	"title": "Post Partum Depression Questionnaire",
+	"description": "For the following questions, please select the answer that comes closest to how you have felt over the past 7 days.",
+	"disclaimer": "Disclaimer: By clicking \"I AGREE\" below you acknowledge that this is not a diagnostic instrument and is only to be used by you if you are 18 years or older. You agree that this application is for information purposes only and is not intended to replace a consultation with your doctor or a mental health professional. This mobile app disclaims any liability, loss, or risk incurred as a consequence, directly or indirectly, from the use and application of this test. If you are in need of immediate assistance, please dial 911 or the National Suicide Prevention Lifeline at 1 (800) 273-8255",
+	"scaleLow": "0-9 Minimal risk of postpartum depression",
+	"scaleMedium": "10-12 Moderate risk of postpartum depression",
+	"scaleHigh": "13-30 High risk of postpartum depression",
+	"questions": [{
+		"name": "question-1",
+		"type": "choice",
+		"title": "Question 1 out of 10",
+		"question": "I have been able to laugh and see the funny side of things",
+		"choices": [{
+				"title": "As much as I always could",
+				"value": 0
+			},
+			{
+				"title": "Not quiet so much now",
+				"value": 1
+			},
+			{
+				"title": "Definitely not so much now",
+				"value": 2
+			},
+			{
+				"title": "Not at all",
+				"value": 3
+			}
+		]
+	}, {
+		"name": "question-2",
+		"type": "choice",
+		"title": "Question 2 out of 10",
+		"question": "I have looked forward with enjoyment to things",
+		"choices": [{
+				"title": "As much as I ever did",
+				"value": 0
+			},
+			{
+				"title": "Rather less than I used to",
+				"value": 1
+			},
+			{
+				"title": "Definitely less than I used to",
+				"value": 2
+			},
+			{
+
+				"title": "Hardly at all",
+				"value": 3
+			}
+		]
+	}, {
+		"name": "question-3",
+		"type": "choice",
+		"title": "Question 3 out of 10",
+		"question": "I have blamed myself unnecessarily when things went wrong",
+		"choices": [{
+				"title": "Yes, most of the time",
+				"value": 3
+			},
+			{
+				"title": "Yes, some of the time",
+				"value": 2
+			},
+			{
+				"title": "Not very often",
+				"value": 1
+			},
+			{
+				"title": "No, never",
+				"value": 0
+			}
+		]
+	}, {
+		"name": "question-4",
+		"type": "choice",
+		"title": "Question 4 out of 10",
+		"question": "I have been anxious or worried for no good reason",
+		"choices": [{
+				"title": "No, not at all",
+				"value": 0
+			},
+			{
+				"title": "Hardly ever",
+				"value": 1
+			},
+			{
+				"title": "Yes,sometimes",
+				"value": 2
+			},
+			{
+				"title": "Yes, very often",
+				"value": 3
+			}
+		]
+	}, {
+		"name": "question-5",
+		"type": "choice",
+		"title": "Question 5 out of 10",
+		"question": "I have felt scared or panicky for no very good reason",
+		"choices": [{
+				"title": "Yes, quiet a lot",
+				"value": 3
+			},
+			{
+				"title": "Yes, sometimes",
+				"value": 2
+			},
+			{
+				"title": "No, not much",
+				"value": 1
+			},
+			{
+				"title": "No, not at all",
+				"value": 0
+			}
+		]
+	}, {
+		"name": "question-6",
+		"type": "choice",
+		"title": "Question 6 out of 10",
+		"question": "Things have been getting on top of me",
+		"choices": [{
+				"title": "Yes, most of the time I have not been able to cope at all",
+				"value": 3
+			},
+			{
+				"title": "Yes, sometimes I have not been coping as well as usual",
+				"value": 2
+			},
+			{
+				"title": "No, most of the time I have coped quiet well",
+				"value": 1
+			},
+			{
+				"title": "No, I have been coping as well as ever",
+				"value": 0
+			}
+		]
+	}, {
+		"name": "question-7",
+		"type": "choice",
+		"title": "Question 7 out of 10",
+		"question": "I have been so unhappy that I have had difficulty sleeping",
+		"choices": [{
+				"title": "Yes, most of the time",
+				"value": 3
+			},
+			{
+				"title": "Yes sometimes",
+				"value": 2
+			},
+			{
+				"title": "Not very often",
+				"value": 1
+			},
+			{
+				"title": "No, not at all",
+				"value": 0
+			}
+		]
+	}, {
+		"name": "question-8",
+		"type": "choice",
+		"title": "Question 8 out of 10",
+		"question": "I have felt sad or miserable",
+		"choices": [{
+				"title": "Yes, most of the time",
+				"value": 3
+			},
+			{
+				"title": "Yes, sometimes",
+				"value": 2
+			},
+			{
+				"title": "Not very often",
+				"value": 1
+			},
+			{
+				"title": "Not at all",
+				"value": 0
+			}
+		]
+	}, {
+		"name": "question-9",
+		"type": "choice",
+		"title": "Question 9 out of 10",
+		"question": "I have been so unhappy that I have been crying",
+		"choices": [{
+				"title": "Yes, most of the time",
+				"value": 3
+			},
+			{
+				"title": "Yes, sometimes",
+				"value": 2
+			},
+			{
+				"title": "Only Occasionaly",
+				"value": 1
+			},
+			{
+				"title": "No, never",
+				"value": 0
+			}
+		]
+	}, {
+		"name": "question-10",
+		"type": "choice",
+		"title": "Question 10 out of 10",
+		"question": "The thought of harming myself has occurred to me",
+		"choices": [{
+				"title": "Yes, quiet often",
+				"value": 3
+			},
+			{
+				"title": "Sometimes",
+				"value": 2
+			},
+			{
+				"title": "Hardly ever",
+				"value": 1
+			},
+			{
+				"title": "Never",
+				"value": 0
+			}
+		]
+	}]
 }
