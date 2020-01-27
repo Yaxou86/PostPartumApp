@@ -4,7 +4,7 @@
 	"totalQuestions": "10",
 	"title": "Post Partum Depression Questionnaire",
 	"description": "For the following questions, please select the answer that comes closest to how you have felt over the past 7 days.",
-	"disclaimer": "Disclaimer: By clicking \"I AGREE\" below you acknowledge that this is not a diagnostic instrument and is only to be used by you if you are 18 years or older. You agree that this application is for information purposes only and is not intended to replace a consultation with your doctor or a mental health professional. This mobile app disclaims any liability, loss, or risk incurred as a consequence, directly or indirectly, from the use and application of this test. If you are in need of immediate assistance, please dial 911 or the National Suicide Prevention Lifeline at <a href=tel:+18002738255>18002738255</a>",
+	"disclaimer": "Disclaimer: By clicking \"I AGREE\" below you acknowledge that this is not a diagnostic instrument and is only to be used by you if you are 18 years or older. You agree that this application is for information purposes only and is not intended to replace a consultation with your doctor or a mental health professional. This mobile app disclaims any liability, loss, or risk incurred as a consequence, directly or indirectly, from the use and application of this test. If you are in need of immediate assistance, please dial 911 or the National Suicide Prevention Lifeline at <a href="tel:2125551212">2125551212</a>",
 	"scaleLow": "0-9 Minimal risk of postpartum depression",
 	"scaleMedium": "10-12 Moderate risk of postpartum depression",
 	"scaleHigh": "13-30 High risk of postpartum depression",
