@@ -18,7 +18,7 @@
 				"value": 0
 			},
 			{
-				"title": "Not quiet so much now",
+				"title": "Not quite so much now",
 				"value": 1
 			},
 			{
@@ -103,7 +103,7 @@
 		"title": "Question 5 out of 10",
 		"question": "I have felt scared or panicky for no very good reason",
 		"choices": [{
-				"title": "Yes, quiet a lot",
+				"title": "Yes, quite a lot",
 				"value": 3
 			},
 			{
@@ -133,7 +133,7 @@
 				"value": 2
 			},
 			{
-				"title": "No, most of the time I have coped quiet well",
+				"title": "No, most of the time I have coped quite well",
 				"value": 1
 			},
 			{
@@ -213,7 +213,7 @@
 		"title": "Question 10 out of 10",
 		"question": "The thought of harming myself has occurred to me",
 		"choices": [{
-				"title": "Yes, quiet often",
+				"title": "Yes, quite often",
 				"value": 3
 			},
 			{
